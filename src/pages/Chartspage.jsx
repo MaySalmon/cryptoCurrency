@@ -1,5 +1,6 @@
 import React from "react";
 import Header from "../components/Header";
+import Coin from "../components/Coin";
 
 const Chartpage = () => {
   return (

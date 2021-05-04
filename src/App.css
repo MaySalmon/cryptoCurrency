@@ -39,3 +39,9 @@ ul {
 .coin:hover .delete-icon {
   display: block;
 }
+
+
+.mywelcome{
+  text-align: center;
+  color: aqua;
+}
